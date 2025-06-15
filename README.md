@@ -1,46 +1,44 @@
-# 👨‍💻 SanseLGUH
+# ⚡ SanseLGUH — Hardcore Rust Developer
 
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanseLGUH&langs_count=5&layout=compact&theme=github_dark&hide_border=true)
 
-## 🦀 About Me
+## 🧠 Who Am I?
 
-I'm a Rust developer focused on building fast, efficient, and scalable applications. I’m currently on the journey to becoming a **10x developer** — mastering performance, system-level programming, and seamless cross-platform integration.
+I’m a systems-level Rust developer building fast, fearless, and future-proof software.
 
-## 🧰 Tech Stack
+No fluff. No frameworks for the sake of trends. Just raw speed, safety, and control.
 
-### 📡 Networking & Backend
-- [`reqwest`](https://docs.rs/reqwest) – HTTP client
-- [`tungstenite`](https://docs.rs/tungstenite) – WebSockets
-- [`actix`](https://actix.rs) – Actor framework for building fast web servers
-
-### 🗃️ Databases
-- [`sqlx`](https://docs.rs/sqlx) with:
-  - SQLite
-  - PostgreSQL
-- [`rocksdb`](https://github.com/rust-rocksdb/rust-rocksdb)
-- [`mongodb`](https://crates.io/crates/mongodb)
-
-### 🖥 GUI & Desktop Apps
-- [`druid`](https://github.com/linebender/druid)
-- [`tauri`](https://tauri.app)
-- [`slint`](https://slint.dev)
-- [`egui`](https://github.com/emilk/egui)
-
-### 🧠 System & Low-Level
-- Windows:
-  - GDI / GDI+
-  - OpenGL
-  - Direct3D 11/12
-- JNI (Java Native Interface)
-- Mono (embedding/interfacing)
-- Detours (function hooking)
-
-## 🚀 Goals
-
-- Master systems programming with Rust
-- Build cross-platform GUIs and native tools
-- Push performance boundaries
-- Contribute to open-source Rust ecosystem
-- Become a true 10x developer
+I write code that hits **hard** and **runs lean** — from **network stacks** to **GUI engines**, from **low-level Windows internals** to **cross-platform apps**. I aim to become a **10x developer** by doing the work others won’t touch.
 
 ---
+
+## 🔧 Stack I Command
+
+### 💥 Core Rust Power
+- `reqwest`, `tungstenite`, `actix` — HTTP, WebSockets, async servers at warp speed.
+- `sqlx` (Postgres, SQLite), `rocksdb`, `mongodb` — storage, optimized for real-world loads.
+
+### 🖥 GUI & App Engines
+- `tauri`, `druid`, `slint`, `egui` — Native UI across platforms, no Electron bloat.
+  
+### ⚙️ Hardcore Systems Work
+- **Windows APIs**: GDI, GDI+, OpenGL, Direct3D 11/12
+- **Interfacing**: JNI, Mono embedding
+- **Reverse Engineering / Hooking**: Detours, inline patching
+
+---
+
+## 🧨 My Philosophy
+
+> ⚠️ If it’s slow, bloated, or unsafe — I rip it out.
+
+- I optimize **every line** like it’s going to production.
+- I treat software like **infrastructure** — built to last, hard to break.
+- I learn by building, breaking, and rebuilding until it **outperforms expectations**.
+
+---
+
+## 🧬 Goals (Short-Term and Ruthless)
+- ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.
+- 🔜 Release custom GUI frameworks and high-performance tooling.
+- 🚀 Dominate system-level open source with libraries people **actually use**.

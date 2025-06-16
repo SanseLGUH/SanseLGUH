@@ -1,6 +1,5 @@
 # ⚡ SanseLGUH — Hardcore Rust Developer
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SanseLGUH&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 
 ## 🧠 Who Am I?

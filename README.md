@@ -1,6 +1,6 @@
 # ⚡ SanseLGUH — Hardcore Rust Developer
 
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanseLGUH&langs_count=5&layout=compact&theme=github_dark&hide_border=true)
+![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 
 ## 🧠 Who Am I?
 
@@ -39,7 +39,6 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 ---
 
 ## 🧬 Goals (Short-Term and Ruthless)
-![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 - ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.
 - 🔜 Release custom GUI frameworks and high-performance tooling.
 - 🚀 Dominate system-level open source with libraries people **actually use**.

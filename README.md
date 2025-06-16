@@ -1,6 +1,7 @@
+![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
+
 # ⚡ SanseLGUH — Hardcore Rust Developer
 
-![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanseLGUH&langs_count=5&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🧠 Who Am I?

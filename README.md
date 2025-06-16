@@ -40,5 +40,3 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 
 ## 🧬 Goals (Short-Term and Ruthless)
 - ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.
-- 🔜 Release custom GUI frameworks and high-performance tooling.
-- 🚀 Dominate system-level open source with libraries people **actually use**.

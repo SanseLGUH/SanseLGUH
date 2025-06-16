@@ -1,5 +1,3 @@
-![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
-
 # ⚡ SanseLGUH — Hardcore Rust Developer
 
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanseLGUH&langs_count=5&layout=compact&theme=github_dark&hide_border=true)
@@ -39,6 +37,8 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 - I learn by building, breaking, and rebuilding until it **outperforms expectations**.
 
 ---
+
+![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 
 ## 🧬 Goals (Short-Term and Ruthless)
 - ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.

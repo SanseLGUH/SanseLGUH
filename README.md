@@ -16,7 +16,7 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 
 ### 💥 Core Rust Power
 - `reqwest`, `tungstenite`, `actix` — HTTP, WebSockets, async servers at warp speed.
-- `sqlx` (Postgres, SQLite), `rocksdb`, `mongodb` — storage, optimized for real-world loads.
+- `sqlx` (Postgres, SQLite), `rocksdb`, `surrealdb` — storage, optimized for real-world loads.
 
 ### 🖥 GUI & App Engines
 - `tauri`, `druid`, `slint`, `egui` — Native UI across platforms, no Electron bloat.

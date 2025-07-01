@@ -28,15 +28,5 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 
 ---
 
-## 🧨 My Philosophy
-
-> ⚠️ If it’s slow, bloated, or unsafe — I rip it out.
-
-- I optimize **every line** like it’s going to production.
-- I treat software like **infrastructure** — built to last, hard to break.
-- I learn by building, breaking, and rebuilding until it **outperforms expectations**.
-
----
-
 ## 🧬 Goals
 - ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.

@@ -38,5 +38,5 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 
 ---
 
-## 🧬 Goals (Short-Term and Ruthless)
+## 🧬 Goals
 - ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.

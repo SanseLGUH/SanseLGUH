@@ -17,7 +17,7 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 - `sqlx` (Postgres, SQLite), `rocksdb`, `surrealdb` — storage, optimized for real-world loads.
 
 ### 🖥 GUI & App Engines
-- `tauri`, `druid`, `slint`, `egui` — Native UI across platforms, no Electron bloat.
+- `tauri`, `druid`, `slint`, `egui/eframe` — Native UI across platforms, no Electron bloat.
   
 ### ⚙️ Systems Work
 - **Windows APIs**: GDI, GDI+, OpenGL, Direct3D 11/12

@@ -5,9 +5,7 @@
 ## 🧠 Who Am I?
 
 I’m a systems-level Rust developer building fast, fearless, and future-proof software.
-
 No fluff. No frameworks for the sake of trends. Just raw speed, safety, and control.
-
 I write code that hits **hard** and **runs lean** — from **network stacks** to **GUI engines**, from **low-level Windows internals** to **cross-platform apps**. I aim to become a **10x developer** by doing the work others won’t touch.
 
 ---
@@ -21,7 +19,7 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 ### 🖥 GUI & App Engines
 - `tauri`, `druid`, `slint`, `egui` — Native UI across platforms, no Electron bloat.
   
-### ⚙️ Hardcore Systems Work
+### ⚙️ Systems Work
 - **Windows APIs**: GDI, GDI+, OpenGL, Direct3D 11/12
 - **Interfacing**: JNI, Mono embedding
 - **Reverse Engineering / Hooking**: Detours, inline patching

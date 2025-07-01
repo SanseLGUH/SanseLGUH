@@ -12,7 +12,7 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 
 ---
 
-## 🔧 Stack I Command
+## 🔧 Stack
 
 ### 💥 Core Rust Power
 - `reqwest`, `tungstenite`, `actix` — HTTP, WebSockets, async servers at warp speed.

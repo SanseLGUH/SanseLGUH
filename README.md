@@ -30,4 +30,5 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 - ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.
 
 
-![github-user-contribution](https://github.com/user-attachments/assets/485657ce-2219-40c2-8b7c-ab8e427c92bc)
+
+![github-user-contribution (1)](https://github.com/user-attachments/assets/7f909faa-cdbc-44fc-8e61-7df48ee5e0c2)

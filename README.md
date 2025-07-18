@@ -25,10 +25,6 @@ I write code that hits **hard** and **runs lean** — from **network stacks** to
 - **Reverse Engineering / Hooking**: Detours, inline patching
 
 ---
-
+![github-user-contribution (1)](https://github.com/user-attachments/assets/7f909faa-cdbc-44fc-8e61-7df48ee5e0c2)
 ## 🧬 Goals
 - ✅ Become a **10x Rust developer** — deeply technical, toolmaker, unstoppable.
-
-
-
-![github-user-contribution (1)](https://github.com/user-attachments/assets/7f909faa-cdbc-44fc-8e61-7df48ee5e0c2)

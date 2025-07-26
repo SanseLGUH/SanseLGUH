@@ -1,5 +1,3 @@
-⚡ SanseLGUH — Hardcore Rust Developer
-
 ![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 
 ## 🧠 Who Am I?

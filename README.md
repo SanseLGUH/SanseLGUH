@@ -1,5 +1,4 @@
 ![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
-
 ## Stack
 
 - **Core:** `reqwest`, `tungstenite`, `actix`

@@ -1,11 +1,11 @@
 ![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 
-#Stack
+# Stack
 
-Core: reqwest, tungstenite, actix
-Storage: sqlx, rocksdb, surrealdb
-UI: tauri, druid, slint, egui/eframe
-Systems: windows.rs (GDI, OpenGL, D3D), JNI, Mono, Detours
+Core: reqwest, tungstenite, actix 
+Storage: sqlx, rocksdb, surrealdb 
+UI: tauri, druid, slint, egui/eframe 
+Systems: windows.rs (GDI, OpenGL, D3D), JNI, Mono, Detours 
 
-#Goal
+# Goal
 Build fast, low-level tools and become a highly capable Rust developer.

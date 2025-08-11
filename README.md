@@ -4,7 +4,7 @@
 - **Core:** `reqwest`, `tungstenite`, `actix`
 - **Storage:** `sqlx`, `rocksdb`, `surrealdb`
 - **UI:** `tauri`, `druid`, `slint`, `egui/eframe`
-- **Systems:** Windows APIs (GDI, OpenGL, D3D), JNI, Mono, Detours
+- **Systems:** windows.rs (GDI, OpenGL, D3D), JNI, Mono, Detours
 
 ## Goal
 

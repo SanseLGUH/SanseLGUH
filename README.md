@@ -1,6 +1,6 @@
 ![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 
-Stack
+# Stack
 
 Core Rust Technologies
 reqwest, tungstenite, actix — for HTTP clients, WebSocket handling, and high-performance async servers.
@@ -17,11 +17,9 @@ Reverse engineering and runtime modification: Detours, inline patching, low-leve
 
 ---
 
-Goals
+# Goals
+
 Become a highly proficient Rust developer.
-
 Build technically deep, high-performance tools.
-
 Master low-level systems and cross-platform application development.
-
 Prioritize clean architecture, minimal dependencies, and full-stack understanding.

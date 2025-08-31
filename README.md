@@ -1,7 +1,7 @@
 ![Codewars](https://github.r2v.ch/codewars?user=SanseLGUH)
 ## Stack
 
-- **Networking:** `reqwest`, `tungstenite`, `actix`
+- **Networking:** `reqwest`, `tungstenite`, `UdpSocket`, `TcpStream`/`TcpListener`, `actix`
 - **Storage:** `sqlx`, `rocksdb`, `surrealdb`
 - **UI:** `tauri`, `druid`, `slint`, `egui/eframe`
 - **Systems:** windows.rs (GDI, OpenGL, D3D), JNI, Mono, Detours

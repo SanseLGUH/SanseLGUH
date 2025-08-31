@@ -4,7 +4,8 @@
 - **Networking:** `reqwest`, `tungstenite`, `UdpSocket`, `TcpStream`/`TcpListener`, `actix`
 - **Storage:** `sqlx`, `rocksdb`, `surrealdb`
 - **UI:** `tauri`, `druid`, `slint`, `egui/eframe`
-- **Systems:** windows.rs (GDI, OpenGL, D3D), JNI, Mono, Detours
+- **Game/Simulation** `bevy`
+- **Systems:** `windows.rs (GDI, OpenGL, D3D)`, `JNI`, `Mono`, `Detours`
 
 ## Goal
 
